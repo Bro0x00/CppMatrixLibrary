@@ -1,1 +1,2 @@
-# C-MatrixLibrary
+# C++MatrixLibrary
+
